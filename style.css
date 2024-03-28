@@ -200,7 +200,7 @@ footer {
 @media (max-width: 768px) {
     header {
         padding: 10px 0;
-        font-size: 0.7em;
+        font-size: 0.5em;
     }
 
     .hero {
@@ -217,6 +217,7 @@ footer {
 
     nav {
         padding: 10px 0;
+        font-size: 0.5em;
     }
 
     a {
